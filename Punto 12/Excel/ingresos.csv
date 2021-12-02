@@ -1,0 +1,12 @@
+idPaciente,consecutivo,fechaIngreso,fechaAlta,diagnostico,costoDiagnostico,numeroColegiado
+1246col,1,2021/10/11 10:05:03,2021/10/11 18:00:03,Se quebro un pie,200000,501med
+1247col,2,2021/10/12 08:05:04,2021/10/12 18:05:04,No esta durmiendo,200000,509med
+1248col,3,2021/11/11 10:05:05,2021/11/12 10:05:05,Cirugia de ojos,200000,502med
+1249col,4,2021/11/20 12:05:06,2021/11/20 14:05:06,Tiene dos dientes quebrados,200000,504med
+1250col,5,2021/11/21 09:05:07,2021/11/21 11:05:07,Lo mordio un gato y se infecto,200000,506med
+1251col,6,2021/11/22 13:05:08,2021/11/22 14:05:08,El niño es imperactivo,200000,507med
+1252col,7,2021/11/23 16:05:09,2021/11/23 17:05:09,Esta en embarazo chequeo general,200000,503med
+1253col,8,2021/11/24 07:05:10,2021/11/24 09:05:10,Necesita un psicologo,200000,510med
+1254col,9,2021/11/30 09:05:11,2021/11/30 12:05:11,Apendicitis,200000,505med
+1250col,10,2021/11/30 12:15:11,2021/11/30 14:15:11,Lo mordio de nuevo un gato y se infecto,200000,508med
+1252col,11,2021/11/30 13:25:12,2021/12/01 11:25:12,va a dar a luz,200000,503med

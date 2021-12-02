@@ -1,0 +1,20 @@
+numeroRegistroFarmaco,cantidadDosis,nombreClinico,codigoProveedor,nombreComercial,precioTotal,precioUnidosis,compuestoQuimico,ubicacion
+1,10,ISOFLURANE ,10201med,ISOFLURANE ,5000,500,"Sustancia pura, solución para inhalación ",12Fk5
+2,50,OXYGEN ,10202med,OXIGENO,10000,200,"Incluye todas las concentraciones, gaS ",12Fk6
+3,10,LIDOCAINE ,10203med,LIDOCAINE ,20000,2000,"Injection for spinal anaesthesia: 5% 
+(hydrochloride) in 2- mL ampoule to 
+be mixed with 7.5% glucose solution.
+Topical forms: 2% to 4% 
+(hydrochloride).
+",12Fk7
+4,50,LIDOCAINE + EPINEPHRINE ,10204med,ADRENALINA,150000,3000,"Dental cartridge: 2% (hydrochloride) + 
+epinephrine 1:80 000.
+Injection: 1%; 2% (hydrochloride or 
+sulfate) + epinephrine 1:200 000 in 
+Vial",12Fk8
+5,100,MORPHINE ,10205med,MORFINA,4000000,40000,sulfate or hydrochloride) in 1- mL ampoule ,12Fk9
+6,1000,HYDROCORTISONE ,10206med,HYDROCORTISONE ,50000,50,sodium succinate ,12Fk10
+7,20,AMPICILLIN ,10207med,AMPICILLIN ,3000,150,Powder for injection: 500 mg,12Fk11
+8,100,GENTAMICIN ,10208med,GENTAMICIN ,6000,60,Injection: 10 mg,12Fk12
+9,10,NYSTATIN ,10209med,NYSTATIN ,12000,1200,Lozenge: 100 000 IU. Oral liquid: 50 mg/5 mL [c],12Fk13
+10,100,ATAZANAVIR ,10210med,ATAZANAVIR ,100000,1000,Solid oral dosage form: 100 mg,12Fk14

@@ -1,0 +1,11 @@
+tipoServicio,costoServicio,numeroColegiado
+Rayos X,65000,501med
+Polisomnografia,120000,509med
+Oftalmologia,45000,502med
+Odontologia,36400,504med
+Emergencias1,150000,506med
+Pediatria1,85000,507med
+Pediatria2,85000,503med
+Psicologia,100000,510med
+Sala de Operaciones,1000000,505med
+Emergencias2,150000,508med

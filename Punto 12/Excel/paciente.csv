@@ -1,0 +1,10 @@
+idPaciente,fechaNacimiento,seguridadSocial,telefono,primerNombre,segundoNombre,primerApellido,segundoApellido,calle,numero,piso
+1246col,1988/04/10,5682241sh,3000000800,Camilo,Andres,Rodriguez,Hoyos,Calle 56 #51-56,12,12
+1247col,1989/12/25,5682242sh,3000640801,Nathalia,,Ramirez,Velasquez,Calle 56 #51-57,2,1
+1248col,1977/11/02,,3010000802,Julian,,Avila,Avila,Calle 56 #51-58,5,1
+1249col,1981/02/16,5682244sh,3000000803,Juan,Felipe,Correa,Rodriguez,Calle 56 #51-59,,1
+1250col,1999/04/17,5682245sh,3050000804,Juan,Esteban,Torres,Ramirez,Carrera 56 #521-60,5,2
+1251col,1987/08/07,5682246sh,3050000805,Manuel,Alejandro,Jaramillo,Velasquez,Carrera 56 #521-61,5,
+1252col,1988/06/10,,3050000806,Paula,Lorena,Gonzales,Zapata,Carrera 56 #521-62,6,2
+1253col,1989/10/25,5682248sh,3050000807,Sabastian,,Escobar,Hoyos,Carrera 56 #521-63,63,3
+1254col,1990/01/20,5682249sh,3050000808,Andres,,Rodriguez,Escribano,Carrera 56 #521-64,4,4
